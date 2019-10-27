@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number guessing game</string>
+    <string name="action_settings">Settings</string>
+    <string name="guess_a_number_between_1_to_6">Guess a number between 1 to 6</string>
+    <string name="guess">GUESS</string>
+    <string name="enter_number_1_to_6">Enter number 1 to 6</string>
+</resources>
